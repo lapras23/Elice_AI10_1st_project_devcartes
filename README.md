@@ -4,6 +4,8 @@
 
 ## 🥰 Dev.cartes! (최우수상 수상)
 
+![award](https://github.com/lapras23/Elice_AI10_1st_project_devcartes/tree/main/uploads)
+
 ## 💻 역할
 
 - 회원가입 (Passport를 이용한 Session 방식)
