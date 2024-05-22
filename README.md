@@ -36,7 +36,12 @@
 
 ## 🪄 배운 것 정리
 
-- mongoose sequence plugin을 이용한 AutoIncrement - [링크](https://lapras23.tistory.com/2)
+- mongoose sequence plugin을 이용한 AutoIncrement
+  - [블로그 정리 글](https://lapras23.tistory.com/2)
+  - [관련 코드](https://github.com/lapras23/Elice_AI10_1st_project_devcartes/blob/main/models/schemas/comment.js)
+- mongoose에서 findOne 사용 시 원하는 필드 값만 가져오기
+  - [블로그 정리 글](https://lapras23.tistory.com/3)
+  - [관련 코드](https://github.com/lapras23/Elice_AI10_1st_project_devcartes/blob/main/routes/auth.js#L194-L198)
 - 추후 추가 예정
 
 ## 참고
