@@ -8,11 +8,11 @@
 
 ## API 문서, ERD
 
-<a href="https://docs.google.com/spreadsheets/d/1xZFiT2gpMSSY5c2hOz8VhJL_gC7Prh9ZJ5Q6wfp4Itk/edit?usp=sharing" target="_blank">API 문서 ERD 보러 가기</a>
+<a href="https://docs.google.com/spreadsheets/d/1xZFiT2gpMSSY5c2hOz8VhJL_gC7Prh9ZJ5Q6wfp4Itk/edit?usp=sharing" target="_blank">링크</a>
 
 ## ✨ Stack
 
-- Node.js (Express, Passport, mongoose)
+- Node.js (Express, Passport, Mongoose)
 - MongoDB
 
 ## 💻 역할 (Back-end)
@@ -31,14 +31,15 @@
 - 게시판 목록 전체, 개별 조회, 검색 기능 (닉네임, 제목, 내용, 제목+내용, 댓글)
   - /schemas/board.js
   - /routes/board.js
+- mongoose sequence plugin을 이용한 AutoIncrement
+  - /schemas
 
 ## 🪄 배운 것 정리
 
-1. mongoose sequence plugin을 이용한 AutoIncrement
-2. 추후 추가 예정
+- [mongoose sequence plugin을 이용한 AutoIncrement](https://lapras23.tistory.com/2)
+- 추후 추가 예정
 
 ## 참고
 
-- 코드는 제가 작성한 부분만 올렸습니다.
-- 코딩 배우고 했던 첫 프로젝트였고, 백엔드는 2주만 배워서 들어간거라 부족한 부분이 많습니다.
-- 좋은 팀원들을 만나서 최우수 프로젝트로 선정될 수 있었습니다. 팀원분들께 정말 감사드립니다.
+- 제가 작성한 코드가 포함되어 있는 파일만 올렸습니다.
+- 코딩 배우고 했던 첫 프로젝트였고, 백엔드는 2주만 배워서 들어간거라 부족한 부분이 많습니다. 이해해주세요🥰
