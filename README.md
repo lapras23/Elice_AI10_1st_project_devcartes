@@ -6,7 +6,9 @@
 
 ![award](https://raw.githubusercontent.com/lapras23/Elice_AI10_1st_project_devcartes/main/uploads/240522%20awards.png)
 
-## API 문서, ERD - [링크](https://docs.google.com/spreadsheets/d/1xZFiT2gpMSSY5c2hOz8VhJL_gC7Prh9ZJ5Q6wfp4Itk/edit?usp=sharing)
+## API 문서, ERD
+
+- [링크](https://docs.google.com/spreadsheets/d/1xZFiT2gpMSSY5c2hOz8VhJL_gC7Prh9ZJ5Q6wfp4Itk/edit?usp=sharing){:target="\_blank"}
 
 ## ✨ Stack
 
