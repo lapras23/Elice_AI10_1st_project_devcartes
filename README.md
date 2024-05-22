@@ -36,7 +36,7 @@
 
 ## 🪄 배운 것 정리
 
-- [mongoose sequence plugin을 이용한 AutoIncrement](https://lapras23.tistory.com/2)
+- mongoose sequence plugin을 이용한 AutoIncrement - [링크](https://lapras23.tistory.com/2)
 - 추후 추가 예정
 
 ## 참고
