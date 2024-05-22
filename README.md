@@ -4,7 +4,7 @@
 
 ## 🥰 Dev.cartes! (최우수상 수상)
 
-![award](https://github.com/lapras23/Elice_AI10_1st_project_devcartes/tree/main/uploads)
+![award](https://raw.githubusercontent.com/lapras23/Elice_AI10_1st_project_devcartes/main/uploads/240522%20awards.png)
 
 ## 💻 역할
 
