@@ -8,9 +8,7 @@
 
 ## API 문서, ERD
 
-- [링크][]
-
-[링크]: https://docs.google.com/spreadsheets/d/1xZFiT2gpMSSY5c2hOz8VhJL_gC7Prh9ZJ5Q6wfp4Itk/edit?usp=sharing
+<a href="https://docs.google.com/spreadsheets/d/1xZFiT2gpMSSY5c2hOz8VhJL_gC7Prh9ZJ5Q6wfp4Itk/edit?usp=sharing" target="_blank">API 문서 ERD 보러 가기</a>
 
 ## ✨ Stack
 
