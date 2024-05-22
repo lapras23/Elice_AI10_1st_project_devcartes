@@ -6,6 +6,11 @@
 
 ![award](https://raw.githubusercontent.com/lapras23/Elice_AI10_1st_project_devcartes/main/uploads/240522%20awards.png)
 
+## Stack
+
+- Node.js (Express, Passport, mongoose)
+- MongoDB
+
 ## 💻 역할
 
 - 회원가입 (Passport를 이용한 Session 방식)
