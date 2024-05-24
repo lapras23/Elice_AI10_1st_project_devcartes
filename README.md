@@ -6,7 +6,7 @@
 
 ![award](https://raw.githubusercontent.com/lapras23/Elice_AI10_1st_project_devcartes/main/uploads/240522%20awards.png)
 
-## API 문서, ERD
+## 📝 API 문서, ERD
 
 <a href="https://docs.google.com/spreadsheets/d/1xZFiT2gpMSSY5c2hOz8VhJL_gC7Prh9ZJ5Q6wfp4Itk/edit?usp=sharing" target="_blank">링크</a>
 
@@ -37,14 +37,16 @@
 ## 🪄 배운 것 정리
 
 - mongoose sequence plugin을 이용한 AutoIncrement
-  - [블로그 정리 글](https://lapras23.tistory.com/2)
   - [관련 코드](https://github.com/lapras23/Elice_AI10_1st_project_devcartes/blob/main/models/schemas/comment.js)
+  - [블로그 정리 글](https://lapras23.tistory.com/2)
 - mongoose에서 findOne 사용 시 원하는 필드 값만 가져오기
-  - [블로그 정리 글](https://lapras23.tistory.com/3)
   - [관련 코드](https://github.com/lapras23/Elice_AI10_1st_project_devcartes/blob/main/routes/auth.js#L194-L198)
+  - [블로그 정리 글](https://lapras23.tistory.com/3)
+- Optional Chaining (?.)
+  - [관련 코드](https://github.com/lapras23/Elice_AI10_1st_project_devcartes/blob/main/routes/auth.js#L194-L198)
+  - [블로그 정리 글](https://lapras23.tistory.com/4)
 - 추후 추가 예정
 
-## 참고
+## 🐤 참고
 
-- 제가 작성한 코드가 포함되어 있는 파일만 올렸습니다.
-- 코딩 배우고 했던 첫 프로젝트였고, 백엔드는 2주만 배워서 들어간거라 부족한 부분이 많습니다. 이해해주세요🥰
+- 프로젝트 전체 코드가 아닌, 제가 작성한 코드가 포함되어 있는 파일만 올렸습니다.
