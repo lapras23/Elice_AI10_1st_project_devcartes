@@ -45,6 +45,9 @@
 - Optional Chaining (?.)
   - [관련 코드](https://github.com/lapras23/Elice_AI10_1st_project_devcartes/blob/main/routes/auth.js#L194-L198)
   - [블로그 정리 글](https://lapras23.tistory.com/4)
+- Number와 parseInt의 차이
+  - [관련 코드](https://github.com/lapras23/Elice_AI10_1st_project_devcartes/blob/main/routes/board.js#L374-L378)
+  - [블로그 정리 글](https://lapras23.tistory.com/5)
 - 추후 추가 예정
 
 ## 🐤 참고
