@@ -48,7 +48,9 @@
 - Number와 parseInt의 차이
   - [관련 코드](https://github.com/lapras23/Elice_AI10_1st_project_devcartes/blob/main/routes/board.js#L374-L378)
   - [블로그 정리 글](https://lapras23.tistory.com/5)
-- 추후 추가 예정
+- 외부 변수를 객체의 key 값으로 넣는 법
+  - [관련 코드](https://github.com/lapras23/Elice_AI10_1st_project_devcartes/blob/main/routes/board.js#L321-L346)
+  - [블로그 정리 글](https://lapras23.tistory.com/6)
 
 ## 🐤 참고
 
