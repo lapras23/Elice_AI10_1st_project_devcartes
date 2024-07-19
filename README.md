@@ -4,7 +4,7 @@
 
 ## 🥰 Dev.cartes! (최우수상 수상)
 
-![award](https://raw.githubusercontent.com/lapras23/Elice_AI10_1st_project_devcartes/main/uploads/240522%20awards.png)
+<img src="https://raw.githubusercontent.com/lapras23/Elice_AI10_1st_project_devcartes/main/uploads/240522%20awards.png" alt="award" width="500"/>
 
 ## 📝 API 문서, ERD
 
